@@ -10,5 +10,6 @@ public class Main {
 
         dubrovskiy.setYear(1234);
         System.out.println(dubrovskiy);
+
     }
 }
