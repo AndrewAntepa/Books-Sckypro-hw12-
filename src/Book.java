@@ -35,7 +35,6 @@ public class Book {
                 ", year=" + year +
                 '}';
     }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
